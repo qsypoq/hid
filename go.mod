@@ -1,3 +1,3 @@
-module github.com/qsypoq/golang-hid
+module github.com/qsypoq/hid
 
 go 1.12
